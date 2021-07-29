@@ -11,6 +11,10 @@
 {
     color: #7E848C;
 }
+.customer
+{
+    color: #23A6F0;
+}
 
 /* header */
 header
@@ -30,7 +34,7 @@ header
 .bikes
 {
     margin-top: 64px;
-    margin-bottom: 160px;
+    margin-bottom: 64px;
 }
 hr.line
 {
@@ -69,5 +73,5 @@ hr.line
 /* footer */
 footer
 {
-    margin-top: 139px;
+    margin-top: 96px;
 }
