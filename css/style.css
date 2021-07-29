@@ -1,14 +1,73 @@
-header
+/* common */
+.txt
 {
-    background-color: #264653;
+    color: #FFFFFF;
+}
+.orange
+{
+    color: #E76F51;
+}
+.fade
+{
+    color: #7E848C;
 }
 
+/* header */
+header
+{
+    width: 100%;
+    background-color: #264653;
+}
+/* top */
 .btn
 {
     background-color: #E76F51;
     color: #FFFFFF;
 }
+
+/* Main */
+/* featured */
+.bikes
+{
+    margin-top: 64px;
+    margin-bottom: 160px;
+}
+hr.line
+{
+	border-top: 1px;
+    width: 58px;
+}
+
 .gray img
 {
     filter: grayscale(100%);
+}
+/* customer */
+.border
+{
+    width: 332px;
+    height: 478px;
+    padding: 40px 35px;
+}
+.star
+{
+    color: #E77C40;
+    background-color: #E77C40;
+}
+
+/* faq */
+.faq img
+{
+    width: 431px;
+    height: 423px;
+}
+.acc
+{
+    width: 552px;
+}
+
+/* footer */
+footer
+{
+    margin-top: 139px;
 }
